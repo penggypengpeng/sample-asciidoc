@@ -6,7 +6,7 @@
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-= STAP Project Documentation
+// = STAP Project Documentation
 :revnumber: 8.2 EN
 :revdate: April 2024
 :revremark: (based upon AsciiDoc version)
@@ -36,7 +36,3 @@ endif::backend-html5[]
 <<<<
 // 1. Introduction and Goals
 include::src/01_introduction_and_goals.adoc[]
-
-<<<<
-// 2. Architecture Constraints
-include::src/02_architecture_constraints.adoc[]
